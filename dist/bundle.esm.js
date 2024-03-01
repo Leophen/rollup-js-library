@@ -1,5 +1,5 @@
-function multiply(num1, num2) {
-    return num1 * num2;
-}
-
-export { multiply };
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+var tslib_1 = require("tslib");
+tslib_1.__exportStar(require("./multiply"), exports);
